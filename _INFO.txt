@@ -1,6 +1,6 @@
 Dan Dan Noodles|1tbsp peanut oil,18oz chopped ham,3tbsp ginger,1.125cups chicken broth,3tbsp chili sauce,1.5tbsp rice vinegar,3tbsp soy sauce,3tbsp peanut butter,1.5tsp sichuan peppercorns,pinch salt,pinch pepper,12oz egg noodles,3tbsp roasted peanuts,4.5 scallions
 Sweet Chili Shrimp|8oz cellophane noodles,1lb shrimp,2tsp cornstarch,0.5tsp salt,0.25tsp black pepper,1tbsp soy sauce,1tbsp honey,1tbsp rice vinegar,2tbsp chili sauce,1tbsp Shaoxing rice wine,1tbsp peanut oil,2tbsp minced garlic,1tsp ginger
-Shrimp With Lobster Sauce|2tbsp peanut oil,2 garlic cloves,12oz shrimp,1tbsp Shaoxing rice wine,1.5cups chicken broth,0.5tsp sesame oil,0.5tsp sugar,0.5tsp salt,pinch white pepper,0.5cups peas,1tbsp cornstarch,1 eggs,1 scallions
+Shrimp With Lobster Sauce|2tbsp peanut oil,3 garlic cloves,16oz shrimp,4tsp Shaoxing rice wine,2cups chicken broth,0.5tsp sesame oil,0.66tsp sugar,0.66tsp salt,pinch white pepper,0.66cups peas,4tsp cornstarch,2 eggs,2 scallions
 Egg Drop Soup|6cups chicken broth,1tsp Shaoxing rice wine,0.25tsp ginger,1tsp sugar,0.25tsp white pepper,1tbsp cornstarch,2 eggs,pinch salt,1 scallions
 Lighter Egg Foo Young|0.75cups chicken broth,1.5tbsp hoisin sauce,1tbsp cornstarch,3tbsp peanut oil,4 cremini mushrooms,4 scallions,1.5cups bean sprouts,0.25cups chopped ham,1.5tsp soy sauce,6 eggs
 Vinegar-Glazed Chinese Cabbage|1tbsp cornstarch,4tbsp peanut oil,3 garlic cloves,1 cabbage,3tbsp black vinegar,pinch salt
@@ -9,3 +9,8 @@ Vegetable Egg Rolls|2tbsp peanut oil,2 garlic gloves,1tbsp garlic,0.5 sweet onio
 Pineapple Fried Rice|3tbsp soy sauce,1tsp sesame oil,2tbsp peanut oil,2 garlic cloves,1 sweet onion,1 carrots,0.5cups sweet corn,0.5cups peas,3cups rice,2cups pineapple,0.5cups choped ham,2 scallions,0.25cups cashews,pinch salt,pinch black pepper
 Easy Vegetable Stir Fry|4tbsp soy sauce,2tbsp sugar,1tbsp peanut oil,1.5tsp ginger,1cups cremini mushrooms,1 red bell pepper,1 green bell pepper,2 scallions,1cups broccoli florets,0.5cups green beans
 Mango Pudding|0.5lb frozen mango chunks,0.25cups sugar,1 packet gelatin,0.5cups evaporated milk,pinch raspberries
+Teriyaki Turkey Rice Bowl|0.5cups soy sauce,2tbsp red wine vinegar,2tbsp sugar,2.66tbsp garlic,1tbsp cornstarch,1tbsp peanut oil,0.5cups sweet onion,1lb ground turkey,1cup broccoli florets,2 carrots,2 scallions|https://www.yellowblissroad.com/teriyaki-turkey-rice-bowl/
+Chicken and Ginger Noodle Soup|2tsp peanut oil,2tbsp garlic,0.33cup ginger,5oz cremini mushrooms,0.5cup Shaoxing rice wine,6cups chicken broth,1.5lb chicken,5 scallions,3 carrots,2tbsp soy sauce,pinch sea salt,pinch black pepper,0.5lb rice stick noodles
+Braised Pork in Soy Sauce|3tbsp sugar,1tbsp honey,4tbsp soy sauce,1tbsp peanut oil,1tbsp ginger,1lb pork belly/shoulder,1tsp cinnamon,0.5cup Shaoxing rice wine
+General Tso's Chicken|3tbsp soy sauce,1tbsp rice vinegar,1.5tbsp honey,1tbsp sugar,2tsp chili sauce,0.75cup chicken broth,5tsp cornstarch,pinch sea salt, pinch black pepper,2lb chicken,2tbsp peanut oil,2 garlic cloves,2tsp ginger,4 scallions,1tsp sesame seeds
+Easy Sesame Chicken|2tbsp soy sauce,2tsp sesame oil,1tbsp sugar,1tbsp honey,2tbsp rice vinegar,1tbsp ginger,1 garlic clove,1 eggs,3tbsp cornstarch
