@@ -45,4 +45,4 @@ The splitting happens at the pipe (|) character and at the spaces after the comm
 
 Be sure not to leave a newline (\n) at the end of the text file when you're done. Otherwise getInfo() will throw errors.
 
-Fundamentally, unit_sums() is unable to deal with situations like "2 chopped cabbages + 1 cup chopped cabbage". The units are different and it's not clear to how add them together without prior knowledge. When these situations pop up, unit_sums() will throw errors between the two dotted lines. Keep those in mind and edit the final answer as necessary.
+Fundamentally, unit_sums() is unable to deal with situations like "2 chopped cabbages + 1 cup chopped cabbage". The units are different and it's not clear to how add them together without prior knowledge. When these situations pop up, the item in the list will have the raw quantity array on its side, allowing you to calculate it on your own.
